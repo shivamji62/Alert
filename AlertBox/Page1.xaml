@@ -1,0 +1,8 @@
+﻿<Page x:Class="AlertBox.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="SweetAlert Example" Height="300" Width="300">
+    <Grid>
+        <Button x:Name="myButton" Content="Click Me" HorizontalAlignment="Center" VerticalAlignment="Center" Click="myButton_Click"/>
+    </Grid>
+</Page>
